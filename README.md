@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, React, Figma**
 
-- 📫 How to reach me **quyenthucdoan51@gmail.com**
+- 📫 How to reach me quyenthucdoan51@gmail.com
 
 - 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/exkf7erlwhvbowvonjn3e/Quyen_Doan_Resume.pdf?rlkey=opvex3bfoqvmgidbg8d1i3ryf&dl=0)
 
