@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.quinxiedoan.com](https://www.quinxiedoan.com)
 
-- 💬 Ask me about **Flutter, React, Figma**
+- 💬 Ask me about **Flutter, Java, Python, Figma, Game Development**
 
 - 📫 How to reach me quyenthucdoan51@gmail.com
 
