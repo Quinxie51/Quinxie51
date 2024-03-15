@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quinxie</h1>
 <h3 align="center">A passionate software developer from the US</h3>
 
-- 🔭 I’m currently working on **game development**
+- 🔭 I’m currently working on **software development** and **game development**
 
 - 🌱 I’m currently learning **creative coding**
 
