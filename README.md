@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **creative coding**
 
-- 👨‍💻 All of my projects are available at [https://www.quinxiedoan.com](https://www.quinxiedoan.com)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://www.quinxiedoan.com](https://quinxiedoan.xyz/))
 
 - 💬 Ask me about **Flutter, Java, Python, Figma, Game Development**
 
 - 📫 How to reach me quyenthucdoan51@gmail.com
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/exkf7erlwhvbowvonjn3e/Quyen_Doan_Resume.pdf?rlkey=opvex3bfoqvmgidbg8d1i3ryf&dl=0)
+- 📄 Know about my experiences [Resume]([https://www.dropbox.com/scl/fi/exkf7erlwhvbowvonjn3e/Quyen_Doan_Resume.pdf?rlkey=opvex3bfoqvmgidbg8d1i3ryf&dl=0](https://drive.google.com/file/d/1AQ7kVvEaURpQYlDx1NHZIt-CFOayeISE/view?usp=sharing))
 
 - ⚡ Fun fact **I'm a left-handed**
 
